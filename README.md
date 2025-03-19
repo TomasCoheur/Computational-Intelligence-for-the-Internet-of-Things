@@ -34,7 +34,7 @@ The dataset, **Lab6Dataset.csv**, consists of over 10,000 records taken over sev
 
 ### Clone Repository
   ```sh
-  git clone <repository-url>
+  git clone git@github.com:TomasCoheur/Computational-Intelligence-for-the-Internet-of-Things.git
   cd Neural-Network-Occupancy-Detection
   ```
 
